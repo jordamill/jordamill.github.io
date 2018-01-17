@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AIMI - Artificial Intelligence: a Modern Approach (Introduction)
+title: AIMI - Introduction
 ---
 
 This is the first post on my new blog and the first in a series of posts as I read Russell and Norvig's 'Artificial Intelligence: A Modern Approach'. My plan is to read the book cover-to-cover. I'll document my progress here by posting my responses and code for all the exercises in the book. The book seems like a thorough survey of Artificial Intelligence and I am hoping it will provide me with a rigorous foundation for future work in the field.
