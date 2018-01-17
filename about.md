@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD candidate at North Carolina State University. I am very interested in Machine Intelligence and AI ethics. I am also interested in computer hardware and Neuroscience. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also like Bikepacking
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jdmill10@ncsu.edu](mailto:jdmill10@ncsu.edu)
