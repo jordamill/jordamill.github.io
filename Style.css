@@ -26,9 +26,9 @@
 }
 
 .sidenav a.close_icon {
-    padding: 0px 0px 0px 0px;
-    display: block;
-    transition: 0.3s;
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 
 /* When you mouse over the navigation links, change their color */
