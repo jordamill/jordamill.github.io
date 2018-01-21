@@ -10,12 +10,21 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <script src="nav.js"></script>
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
+    
+    <div id="mySidenav" class="sidenav">
+      <a onclick="closeNav()" class="closebtn"><img src="svg/007-owl-face-outline-front.svg"  height="42" width="42" style="float: left; filter: invert(100%);"></a>
+      <a href="About.html">About</a>
+      <a href="#">Blog</a>
+      <a href="#">Publications</a>
+    </div>
+    
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
@@ -26,10 +35,6 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
         </header>
       </div>
     </div>
